@@ -17,5 +17,5 @@ export const PiePlot = () => {
       },
     ],
   };
-  return <Pie data={data}></Pie>;
+  return <Doughnut data={data}></Doughnut>;
 };

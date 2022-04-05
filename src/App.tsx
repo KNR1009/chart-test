@@ -1,12 +1,12 @@
 import React from "react";
 
 import "./App.css";
-import { PiePlot } from "./components/PiePlot";
+import { MaterialUI } from "./components/MaterialUI";
 
 function App() {
   return (
     <div className="App">
-      <PiePlot></PiePlot>
+      <MaterialUI></MaterialUI>
     </div>
   );
 }
